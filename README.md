@@ -1,16 +1,18 @@
-### Hi there 👋
+# Luis Saiete
+## Hi there 👋
+I'm a Computer Engeneering student and I'm all about developer communities, events,meetups and things like that.
 
-<!--
-**ltsaiete/ltsaiete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me :eyes:
+- Stickers lover
+- Dark themes
+- Tabs !spaces
+- I love watching to animes
+- Portuguese speaker
 
-Here are some ideas to get you started:
+## :page_with_curl:
+- Looking to collaborate in projects using JS, Java...
+- Feel free to ask for my help about JS, Java, Node.js, HTML5/CSS3.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Reach me out
+
+[![Twitter URL](https://img.shields.io/twitter/url?label=Lewis%20Senpai&style=social&url=https%3A%2F%2Ftwitter.com%2Fltsaiete)](https://twitter.com/ltsaiete)

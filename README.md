@@ -2,6 +2,9 @@
 
 <h3 align="center">A Computer Engeneering student and a developer passionate about communities and a true geek😜.</h3>
 
+[![Luis Saiete's GitHub stats](https://github-readme-stats.vercel.app/api?username=ltsaiete&count_private=true&show_icons=true&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltsaiete&layout=compact&theme=omni&langs_count=9)](https://github.com/anuraghazra/github-readme-stats)
+
 ## :eyes:
 - I'm a Stickers lover.
 - Dark themesh.
@@ -11,7 +14,6 @@
 - Developing open source projects at [PaymentsDS](https://github.com/paymentsds).
 - GDSC Lead for [Google Developer Student Club Eduardo Mondlane University](https://gdsc.community.dev/eduardo-mondlane-university/).
 - Feel free to ask me about **JS, TS, Java, Node.js, HTML5/CSS3**.
-- How to reach me **luistsaiete@gmail.com**.
 - One more thing :eyes: **100 20min episodes >>>>>>>>> 10 1hr episodes**.
 
 <p align="center">

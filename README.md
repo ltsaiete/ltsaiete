@@ -2,7 +2,7 @@
 
 <h3 align="center">A Computer Engeneering student and a developer passionate about communities and a true geek😜.</h3>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltsaiete&count_private=true&show_icons=true&theme=omni" alt=""/> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltsaiete&layout=compact&theme=omni&langs_count=9&count_private=true&hide=ipynb" alt=""/> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=ltsaiete&count_private=true&show_icons=true&theme=omni" alt=""/> </a> <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ltsaiete&layout=compact&theme=omni&langs_count=9&count_private=true&exclude=pay-data" alt="Github stats"/> </a>
 
 ## :eyes:
 - I'm a Stickers lover.

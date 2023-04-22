@@ -2,7 +2,7 @@
 
 I'm a Mozambican Software Engineer passionate about tech communities and creating solutions trough Software.
 
-I am currently on an internship at Deloitte as Software Developer using LC/NC technologies.
+I am currently on an internship at Deloitte Mozambique as Software Developer using LC/NC technologies.
 
 I'm finalist of Computer Engineering at [UEM](https://www.uem.mz/) and currently enrolled ant ALX Software Engineering Programme.
 
